@@ -22,18 +22,28 @@ Handwriting recognition is one of the compelling research works going on because
 
 TASKS COMPLETED
 
- Assignment 1
+ 1)Assignment 1
+ 2)Assignment 2
+ 3)Assignment 3
+ 4)Assignment 4
  
- Assignment 2
- 
- Assignment 3
- 
- Assignment 4
- 
- Ideation Phase
- 
- Project Design Phase 1
- 
- Project Design Phase 2
- 
- Project Planning Phase
+ 5)Project Design and Planning
+ 6)Ideation Phase
+ 7)Project Design Phase 1
+ 8)Project Design Phase 2
+ 9)Project Planning Phase
+ 10)Project Development Phase
+    i)Sprint 1
+    ii)Sprint 2
+    iii)Sprint 3
+    iv)Sprint 4
+ 11)Testing
+ 12)Final Deliverables
+ 13)Final Code
+ 14)IBM Cloud Deployment
+ Project Demo
+ Project Report
+ Understanding the Data
+ Model Building
+ Application Building
+ Train the Model on IBM
